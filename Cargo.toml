@@ -1,0 +1,13 @@
+[package]
+name = "crusty-management"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.95"
+dotenv = "0.15.0"
+solana-client = "2.1.10"
+solana-sdk = "2.1.10"
+solana-transaction-status = "2.1.10"
+spl-token = "7.0.0"
+tokio = "1.43.0"
